@@ -1,0 +1,242 @@
+:root{
+    --primary:black;
+    --secondary:#b45b5be0;
+}
+.header{
+    background-color: black;
+    height:60px;
+    padding: 5px 0;
+}
+.title{
+     background-color:var(--secondary);
+     height:50px;
+}
+.nav-sec{
+    background-color:var(--secondary);
+    height:50px;
+    padding:5px;
+}
+
+.nav{
+    background-color: var(--primary);
+    height:40px;
+}
+.get-started{
+    background-color: var(--primary);
+    height:40px; 
+}
+/* -------banner section------------------- */
+.banner-section{
+    background-color: var(--secondary);
+    height:calc(100vh - 60px);
+    padding:150px 0;
+}
+.banner-details{
+    background-color: var(--primary);
+    height:300px;
+   /* margin-top: 100px; */
+}
+/* --------banner ends------------------------ */
+
+/* ------------logo section------------- */  
+.logo-sec{
+    background-color: var(--primary);
+    height:150px;
+    padding:40px 0px;
+}
+.logo-pic{
+    background-color: var(--secondary);
+    height:50px;
+}
+/* ----logo sec ends----------------- */
+
+/* ------------ aboutus starts---------------------- */
+.aboutus{
+    background-color: var(--secondary);
+    height:600px;
+    padding:50px 0;
+}
+.about-details, .about-headings{
+    background-color: var(--primary);
+    height:400px;
+}
+.about-headings{
+    background-color: var(--primary);
+    height:400px;
+    padding:20px;
+}
+.about-data{
+    background-color: var(--secondary);
+    height:150px;
+}
+/* -----------aboutus ends--------------------- */
+
+/* ------------info section starts-------------------------- */
+.info-sec{
+    background-color: var(--primary);
+    height:150px;
+    padding:50px 0;
+}
+.info-details{
+    background-color: var(--secondary);
+    height:50px;
+}
+/* -------info ends----------------- */
+
+/* -------details starts----------------- */
+.details-sec{
+    background-color: var(--secondary);
+    height:550px;
+    padding:50px 0;
+}
+.details-data{
+    background-color: var(--primary);
+    height:90px;
+}
+.details-about{
+    background-color: var(--primary);
+    height:300px;
+    margin-top: 60px;
+}
+/* ---------------details ends------------------- */
+
+/* --------------service starts------------------ */
+.service-sec{
+    background-color: var(--primary);
+    height:650px;
+    padding:50px 0;
+}
+.service-head{
+    background-color: var(--secondary);
+    height:40px;
+    width:100px;
+    margin-top:20px;
+}
+.service-para{
+    background-color: var(--secondary);
+    height:50px;
+    margin-top:20px;
+}
+.service-box{
+    background-color: var(--secondary);
+    height:100px;
+    margin-top: 20px;
+}
+
+/* --------portfolio starts--------------------- */
+.portfolio-sec{
+    background-color: var(--secondary);
+    height:650px;
+    padding:50px 0;
+}
+.portfolio-head{
+    background-color: var(--primary);
+    height:50px;
+    margin-bottom: 10px;
+}
+.portfolio-pic{
+    background-color: var(--primary);
+    height:150px;
+}
+/* --------portfolio ends----------------------- */
+
+/* ----------testimonials starts-------------------------- */
+.testimonial-sec{
+    background-color: var(--primary);
+    height:450px;
+    padding:50px 0;
+}
+.testimonial-head{
+    background-color: var(--secondary);
+    height:60px;
+}
+.testimonail-pic{
+    background-color: var(--secondary);
+    height:250px;
+}
+
+/* ------------pricing sec----------------------- */
+.pricing-sec{
+    background-color: var(--secondary);
+    height:650px;
+    padding:50px 0;
+}
+.pricing-head{
+    background-color: var(--primary);
+    height:50px;
+}
+.pricing-pic{
+    background-color: var(--primary);
+    height:350px;
+}
+/*-- ------faq section start------------------------ --*/
+.faq-sec{
+    background-color: var(--primary);
+    height:450px;
+    padding:50px 0;
+}
+.faq-head{
+    background-color: var(--secondary);
+    height:50px;
+    width:200px;
+}
+.faq-data{
+    background-color: var(--secondary);
+    height:300px;
+}
+/* ------------team sec starts--------------------- */
+.team-sec{
+    background-color: var(--secondary);
+    height:600px;
+    padding:50px 0;
+}
+.team-head{
+    background-color: var(--primary);
+    height:90px;
+}
+.team-pic{
+    background-color: var(--primary);
+    height:350px;
+}
+/* -------------contact sec starts-------------------- */
+.contact-sec{
+    background-color: var(--primary);
+    height:550px;
+    padding:50px 0;
+}
+.contact-head{
+    background-color: var(--secondary);
+    height:60px;
+}
+.contact-data{
+    background-color: var(--secondary);
+    height:360px;
+}
+.contact-details{
+    background-color: var(--primary);
+    height:100px;
+}
+.contact-call{
+    background-color: var(--primary);
+    height:150px;
+}
+/* ---------------footer-------------------- */
+.footer-sec{
+    background-color: var(--secondary);
+    height:300px;
+    padding:50px 0;
+}
+.footer-data{
+    background-color: var(--primary);
+    height:200px;
+}
+/* ---------footer sec---------------------- */
+.footer{
+    background-color: var(--primary);
+    height:150px;
+    padding:50px 0;
+}
+.footer-details{
+    background-color: var(--secondary);
+    height:60px;
+}
