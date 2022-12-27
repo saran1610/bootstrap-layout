@@ -53,16 +53,16 @@
 /* ------------ aboutus starts---------------------- */
 .aboutus{
     background-color: var(--secondary);
-    height:600px;
-    padding:50px 0;
+  
+    padding: 50px 0px 90px 0;
 }
 .about-details, .about-headings{
     background-color: var(--primary);
-    height:400px;
-}
+    padding:250px 0px;
+} 
 .about-headings{
     background-color: var(--primary);
-    height:400px;
+    margin-top:15px;
     padding:20px;
 }
 .about-data{
@@ -74,19 +74,19 @@
 /* ------------info section starts-------------------------- */
 .info-sec{
     background-color: var(--primary);
-    height:150px;
+    /* height:300px; */
     padding:50px 0;
 }
 .info-details{
     background-color: var(--secondary);
     height:50px;
+    margin-top:15px;
 }
 /* -------info ends----------------- */
 
 /* -------details starts----------------- */
 .details-sec{
     background-color: var(--secondary);
-    height:550px;
     padding:50px 0;
 }
 .details-data{
@@ -103,30 +103,22 @@
 /* --------------service starts------------------ */
 .service-sec{
     background-color: var(--primary);
-    height:650px;
     padding:50px 0;
 }
-.service-head{
-    background-color: var(--secondary);
-    height:40px;
-    width:100px;
-    margin-top:20px;
-}
+
 .service-para{
     background-color: var(--secondary);
     height:50px;
-    margin-top:20px;
 }
 .service-box{
     background-color: var(--secondary);
-    height:100px;
+    height:120px;
     margin-top: 20px;
 }
 
 /* --------portfolio starts--------------------- */
 .portfolio-sec{
     background-color: var(--secondary);
-    height:650px;
     padding:50px 0;
 }
 .portfolio-head{
@@ -143,7 +135,7 @@
 /* ----------testimonials starts-------------------------- */
 .testimonial-sec{
     background-color: var(--primary);
-    height:450px;
+  
     padding:50px 0;
 }
 .testimonial-head{
@@ -158,7 +150,7 @@
 /* ------------pricing sec----------------------- */
 .pricing-sec{
     background-color: var(--secondary);
-    height:650px;
+
     padding:50px 0;
 }
 .pricing-head{
@@ -178,7 +170,6 @@
 .faq-head{
     background-color: var(--secondary);
     height:50px;
-    width:200px;
 }
 .faq-data{
     background-color: var(--secondary);
@@ -187,7 +178,6 @@
 /* ------------team sec starts--------------------- */
 .team-sec{
     background-color: var(--secondary);
-    height:600px;
     padding:50px 0;
 }
 .team-head{
@@ -201,8 +191,7 @@
 /* -------------contact sec starts-------------------- */
 .contact-sec{
     background-color: var(--primary);
-    height:550px;
-    padding:50px 0;
+    padding:30px 0;
 }
 .contact-head{
     background-color: var(--secondary);
@@ -210,11 +199,12 @@
 }
 .contact-data{
     background-color: var(--secondary);
-    height:360px;
+    padding:30px;
 }
-.contact-details{
-    background-color: var(--primary);
-    height:100px;
+.contact-form{
+    background-color: var(--secondary);
+    padding:30px;
+    height:375px;
 }
 .contact-call{
     background-color: var(--primary);
@@ -223,20 +213,20 @@
 /* ---------------footer-------------------- */
 .footer-sec{
     background-color: var(--secondary);
-    height:300px;
     padding:50px 0;
 }
 .footer-data{
     background-color: var(--primary);
     height:200px;
+    margin-top:15px;
 }
 /* ---------footer sec---------------------- */
 .footer{
     background-color: var(--primary);
-    height:150px;
     padding:50px 0;
 }
 .footer-details{
     background-color: var(--secondary);
     height:60px;
+    margin-top:15px;
 }
